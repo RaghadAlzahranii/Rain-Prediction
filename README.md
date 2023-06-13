@@ -27,15 +27,16 @@ By default, flask will run on port 5000.
 3. Navigate to URL http://localhost:5000
 
 You should be able to view the homepage as below :
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Homepage.png)
+![Screen Shot 2023-06-13 at 7 20 08 PM](https://github.com/RaghadAlzahranii/test/assets/135175626/e03d06a8-4502-4202-aa37-db79afb2eea1)
+
 
 Enter valid numerical values in all 3 input boxes and hit Predict.
 
-If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Result.png)
+If everything goes well, you should be able to see the predicted chance of rain probability on the HTML page!
+![Screen Shot 2023-06-13 at 7 21 50 PM](https://github.com/RaghadAlzahranii/test/assets/135175626/9616727b-9ecc-4f0b-af3b-746d4316468b)
 
 4. You can also send direct POST requests to FLask API using Python's inbuilt request module
-Run the beow command to send the request with some pre-popuated values -
+Run the below command to send the request with some pre-popuated values -
 ```
 python request.py
 ```
