@@ -32,7 +32,7 @@ You should be able to view the homepage as below :
 
 Enter valid numerical values in all 3 input boxes and hit 'Is it going to rain?'.
 
-If everything goes well, you should be able to see the predicted chance of rain probability on the HTML page!
+If everything goes well, you should be able to see the predicted probability of rain on the HTML page!
 ![Screen Shot 2023-06-13 at 7 21 50 PM](https://github.com/RaghadAlzahranii/test/assets/135175626/9616727b-9ecc-4f0b-af3b-746d4316468b)
 
 4. You can also send direct POST requests to FLask API using Python's inbuilt request module
